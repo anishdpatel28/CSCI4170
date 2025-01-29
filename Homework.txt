@@ -1,0 +1,5 @@
+Git Link:
+https://github.com/anishdpatel28/CSCI4170/tree/main/Homework%202
+
+Colab Link:
+https://colab.research.google.com/drive/1My3c8kC1bAixJoXX_auzRWUaUgfN1zBA?usp=sharing
