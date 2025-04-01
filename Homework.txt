@@ -1,6 +1,12 @@
-Git Link:
-https://github.com/anishdpatel28/CSCI4170/tree/main/Homework%206
+Git Link:  
+https://github.com/anishdpatel28/CSCI4170/tree/main/Homework%206  
 
-Colab Link:
-https://colab.research.google.com/drive/1ccK87d0POYvu20dNsCFKh-yYe2HvVIvs?usp=sharing
-https://colab.research.google.com/drive/12JoVPp1cU-pvmUFsalzNoIwH897Qg7tt?usp=sharing
+Colab Link:  
+Task 1:  
+https://colab.research.google.com/drive/1ccK87d0POYvu20dNsCFKh-yYe2HvVIvs?usp=sharing  
+
+Tasks 2-3:  
+https://colab.research.google.com/drive/1kke5ZbhrRY32FXxge3UQywzhH5SjKgE1?usp=sharing  
+
+Task 5:  
+https://colab.research.google.com/drive/12JoVPp1cU-pvmUFsalzNoIwH897Qg7tt?usp=sharing  
